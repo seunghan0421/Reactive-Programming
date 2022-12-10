@@ -1,5 +1,7 @@
 package com.greglturnquist.ecommerce.domain;
 
+import java.util.Date;
+
 import org.springframework.data.annotation.Id;
 
 import lombok.EqualsAndHashCode;
